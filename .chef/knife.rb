@@ -9,3 +9,5 @@ validation_client_name   "shonallearn-validator"
 validation_key           "#{current_dir}/shonallearn-validator.pem"
 chef_server_url          "https://api.opscode.com/organizations/shonallearn"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+cookbook_copyright 		"Company_name"
+cookbook_email 			"Email_Address"
