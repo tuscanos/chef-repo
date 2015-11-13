@@ -1,3 +1,3 @@
 name "staging"
 description "Staging Environment"
-override_attributes :webserver => { :version => "0.2.0" }
+override_attributes :learn_chef_httpd => { :version => "0.2.0" }
